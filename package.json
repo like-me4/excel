@@ -1,0 +1,29 @@
+{
+  "name": "excel",
+  "version": "0.0.1",
+  "description": "This is a trying of reparing excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/like-me4/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel",
+    "typescript"
+  ],
+  "author": "Andrew Palii <andretanforever@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/like-me4/excel/issues"
+  },
+  "homepage": "https://github.com/like-me4/excel#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.9",
+    "typescript": "^4.6.3"
+  }
+}
