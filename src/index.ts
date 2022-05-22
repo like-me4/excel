@@ -1,3 +1,4 @@
 import './assets/scss/index.scss';
 
-console.log('Working!');
+
+console.log('Everything is working');
